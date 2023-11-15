@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    padding: 50px;
+    background-image: url('https://media.istockphoto.com/id/1328854621/video/abstract-futuristic-cyberspace-with-binary-code-matrix-animated-background-with-digits.jpg?s=640x640&k=20&c=QIxehF79gAVVtQIjFrymvdgziAPuYwPwt3iJzqNzYo4='); /* Substitua pelo caminho real da sua imagem de fundo */
+    background-size: cover;
+    color: #fff; /* Cor do texto */
+}
+
+/* Adicione outros estilos conforme necessário */
+
+.container {
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+.titulo-centralizado {
+    text-align: center;
+}
+.meu-botao {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.meu-botao:hover {
+    background-color: #45a049;
+}
+body {
+    text-align: center;
+    padding: 50px;
+}
